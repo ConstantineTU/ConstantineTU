@@ -4,6 +4,7 @@
 
 В настоящий момент я совершенствуюсь в React, Redux и TypeScript 😌
 
+<img src="https://komarev.com/ghpvc/?username=constantinetu&label=Profile%20views&color=0e75b6&style=flat" alt="constantinetu" />
 ### Проекты
 
 Некоторые из моих проектов:
