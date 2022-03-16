@@ -1,6 +1,6 @@
 ### Привет всем 👋
 
-Я Frontend-developr и я люблю разрабатывать программы на TypeScript, React и JavaScript. 😎
+Я Frontend-developer и я люблю разрабатывать программы на TypeScript, React и JavaScript. 😎
 
 В настоящий момент я совершенствуюсь в React, Redux и TypeScript 😌
 
