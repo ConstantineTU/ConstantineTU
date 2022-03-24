@@ -19,7 +19,7 @@
 
 - (SPA) Приложение [RSLang](https://constantinetu-rslang.netlify.app/) для изучения английского языка на React & TypeScript
 - (SPA) Приложение [Christmas](https://constantinetu-christmas.netlify.app/) наряди ёлку на React & TypeScript
-- (SPA) Приложение [Art-Quiz](https://constantinetu-art-quiz.netlify.app/) викторина, угадай автора или картину на JavaScript (OOP)
+- (SPA) Приложение [Art-Quiz](https://constantinetu-art-quiz.netlify.app/) викторина, угадай автора или картину на JavaScript (Classes)
 - Приложение [Momentum](https://constantinetu-momentum.netlify.app/) копия расширения Momentum для Google Chrome на JavaScript
 
 ### Statistics & Languages
