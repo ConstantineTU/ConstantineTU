@@ -1,6 +1,4 @@
-# Привет всем, я Frontend-Developer  👋
-
-В настоящий момент я совершенствуюсь в React, Redux и TypeScript 😎
+# Hello, I am a Frontend Developer  👋
 
 <img src="https://komarev.com/ghpvc/?username=constantinetu&label=Profile%20views&color=0e75b6&style=flat" alt="constantinetu" />
 
@@ -16,15 +14,15 @@
 
 ## Projects
 
-Некоторые из моих проектов:
+Some of my projects:
 
-- (SPA) Приложение [RSLang](https://constantinetu-rslang.netlify.app/) для изучения английского языка на React & TypeScript
-- (SPA) Приложение [Christmas](https://constantinetu-christmas.netlify.app/) наряди ёлку на React & TypeScript
-- (SPA) Приложение [Art-Quiz](https://constantinetu-art-quiz.netlify.app/) викторина, угадай автора или картину на JavaScript (Classes)
-- Приложение [Momentum](https://constantinetu-momentum.netlify.app/) копия расширения Momentum для Google Chrome на JavaScript
+- (SPA) App [RSLang](https://constantinetu-rslang.netlify.app/) for learning english on React/Redax & TypeScript
+- (SPA) App [Christmas](https://constantinetu-christmas.netlify.app/) merry christmass on React & TypeScript
+- (SPA) App [Art-Quiz](https://constantinetu-art-quiz.netlify.app/) quiz, guess the author or picture in JavaScript (JS Classes)
+- App [Momentum](https://constantinetu-momentum.netlify.app/) a copy of the Momentum extension for Google Chrome in JavaScript
 
-### Statistics & Languages
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantineTU&layout=compact)
+<!-- ### Statistics & Languages -->
+<!-- ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=ConstantineTU&layout=compact) -->
 
-![STATS](https://github-readme-stats.vercel.app/api?username=ConstantineTU)
+<!-- ![STATS](https://github-readme-stats.vercel.app/api?username=ConstantineTU) -->
 
