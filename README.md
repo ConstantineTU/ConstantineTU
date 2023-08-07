@@ -16,7 +16,7 @@
 
 Some of my projects:
 
-- (SPA) App [RSLang](https://constantinetu-rslang.netlify.app/) for learning english on React/Redax & TypeScript
+- (SPA) App [RSLang](https://soll1992-rslang.netlify.app/) for learning english on React/Redax & TypeScript
 - (SPA) App [Christmas](https://constantinetu-christmas.netlify.app/) merry christmass on React & TypeScript
 - (SPA) App [Art-Quiz](https://constantinetu-art-quiz.netlify.app/) quiz, guess the author or picture in JavaScript (JS Classes)
 - App [Momentum](https://constantinetu-momentum.netlify.app/) a copy of the Momentum extension for Google Chrome in JavaScript
