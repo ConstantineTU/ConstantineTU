@@ -10,7 +10,8 @@
 [![Profile badge](https://www.codewars.com/users/ConstantineTU/badges/large)](https://www.codewars.com/users/ConstantineTU)
 
 ## Contacts
-[![Discord](https://img.shields.io/badge/Discord-%40Kostiks%230989-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/414360051101466624) [![Gmail](https://img.shields.io/badge/Gmail-8kozmo8@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:8kozmo8@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%40TerentyevKY-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/TerentyevKY) [![linkedin](https://img.shields.io/badge/Telegram-%40TerentyevKY-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://www.linkedin.com/in/konstnatin-terentev-a9665a233/)
+[![Discord](https://img.shields.io/badge/Discord-%40Kostiks%230989-blue?style=flat-square-endpoint&logo=discord&logoColor=blue&labelColor=EEEEEE)](https://discordapp.com/users/414360051101466624) [![Gmail](https://img.shields.io/badge/Gmail-8kozmo8@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:8kozmo8@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%40TerentyevKY-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/TerentyevKY) 
+[![linkedin]([https://img.shields.io/badge/Telegram-%40TerentyevKY-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE](https://img.shields.io/badge/linkedin-Konstnatin-blue?style=flat-square-endpoint&logo=&logoColor=blue&labelColor=EEEEEE))](https://www.linkedin.com/in/konstnatin-terentev-a9665a233/)
 
 ## Projects
 
